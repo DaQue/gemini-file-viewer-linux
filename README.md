@@ -1,4 +1,10 @@
-Gemini File Viewer (Linux)
+# Gemini File Viewer (archived)
+
+> **Status:** This repository is no longer maintained. Active development has moved to
+> [DaQue/gemini-file-viewer-linux-enhanced-ui-features](https://github.com/DaQue/gemini-file-viewer-linux-enhanced-ui-features),
+> where current releases (v2.0.4 and newer) are published.
+
+Gemini File Viewer (Linux) remains here for historical reference.
 
 Pre-beta
 - This app is currently in pre-beta. Features and UI may change and bugs are expected. Please report issues and suggestions.
